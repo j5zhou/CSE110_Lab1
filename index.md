@@ -3,4 +3,4 @@
 [GitHub Pages](https://github.com/j5zhou/CSE110_Lab1/tree/codingLanguage)
 
 ### Here is the Image:
-[My photo](self.jpg)
+![My photo](self.jpg)
